@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NewApp.BLL/NewApp.BLL.csproj" />
+  <Project Path="NewApp.Core/NewApp.Core.csproj" />
+  <Project Path="NewApp.DAL/NewApp.DAL.csproj" />
+  <Project Path="NewApp.PL/NewApp.PL.csproj" />
+</Solution>
